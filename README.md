@@ -7,7 +7,7 @@
 
 - e-mail; **ricsymail@gmail.com**
 
-- you can reach my socials on this site; [https://e-z.bio/pain/](https://e-z.bio/pain/)
+- you can reach my socials on this site; [https://e-z.bio/pain](https://e-z.bio/pain)
 
 <h3 align="left">connect with me;</h3>
 <p align="left">
