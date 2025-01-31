@@ -5,13 +5,10 @@
 
 - i study it and telecommunications + coding.
 
-- e-mail; **ricsymail@gmail.com**
-
 - you can reach my socials on this site; [https://e-z.bio/pain](https://e-z.bio/pain)
 
 <h3 align="left">connect with me;</h3>
 <p align="left">
-<a href="https://instagram.com/rxcsy1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rxcsy1337" height="30" width="40" /></a>
 <a href="https://discord.gg/selfabusive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="selfabusive" height="30" width="40" /></a>
 </p>
 
