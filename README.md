@@ -5,11 +5,13 @@
 
 - i study it and telecommunications + coding.
 
-- you can reach my socials on this site; [https://e-z.bio/pain](https://e-z.bio/pain)
+- you can reach my socials on this site; [https://e-z.bio/rxcsy1337](https://e-z.bio/rxcsy1337)
+
+- in my free time i like to play mc anarchy servers.
 
 <h3 align="left">connect with me;</h3>
 <p align="left">
-<a href="https://discord.gg/selfabusive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="selfabusive" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="selfabusive" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">languages and tools;</h3>
