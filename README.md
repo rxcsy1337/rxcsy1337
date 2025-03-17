@@ -1,5 +1,5 @@
 <h1 align="center">yo, i am rxcsy1337</h1>
-<h3 align="center">im a 15 yo person who likes coding, i code since around 2018.</h3>
+<h3 align="center">im a random person who likes coding, i code since around 2018.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rxcsy1337&label=Profile%20views&color=0e75b6&style=flat" alt="rxcsy1337" /> </p>
 
